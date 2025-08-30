@@ -1,20 +1,9 @@
 {
   "name": "ORTC Token",
   "symbol": "ORTC",
-  "description": "ORTC Coin is a community-driven meme token made for fun, vibes, and building strong connections. It’s a symbol of raising our own flag in the crypto world.",
-  "image": "https://raw.githubusercontent.com/ganezha/ORTC-metadata/main/Moontool.png",
-  "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Meme Token"
-    },
-    {
-      "trait_type": "Community",
-      "value": "Driven"
-    },
-    {
-      "trait_type": "Purpose",
-      "value": "Fun & Vibes"
-    }
-  ]
+  "uri": "https://raw.githubusercontent.com/ganezha/ORTC-metadata/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
 }
