@@ -1,9 +1,0 @@
-{
-  "name": "ORTC Token",
-  "symbol": "ORTC",
-  "uri": "https://raw.githubusercontent.com/ganezha/ORTC-metadata/main/metadata.json",
-  "seller_fee_basis_points": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
-}
